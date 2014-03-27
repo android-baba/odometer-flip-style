@@ -15,4 +15,4 @@ add the following to your layout xml :
 add following lines to java code : 
 
 	FlipMain flip = (FlipMain)findViewById(R.id.flip);
-	flip.setValue(p.points, true); <br>
+	flip.setValue(p.points, true);
